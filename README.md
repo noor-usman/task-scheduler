@@ -72,4 +72,5 @@ We can expand our current monolithic system into a microservices backend to make
 
 ## Overall Flow Diagram
 
- 
+
+![Distributed Task Scheduler](https://github.com/noor-usman/task-scheduler/assets/170473170/72aac7e7-35d7-4077-9304-af1ce7f4f235)
